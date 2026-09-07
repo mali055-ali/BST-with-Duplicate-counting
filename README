@@ -1,0 +1,13 @@
+Most of the hints are in the text of BSTree.cpp
+
+Your best best here is to build your program
+
+% g++ -std=c++14 main.cpp BSTree.cpp
+
+To run it for each of the tests....
+
+% ./a.out < input.1 > output.1
+
+Then compare it against what the tests are looking for...
+
+% diff output.1 expected.1
